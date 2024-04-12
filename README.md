@@ -2,3 +2,4 @@
 ## tecnologias utilizadas 
 - Python 🐍
 - PostgreSQL
+- POO
